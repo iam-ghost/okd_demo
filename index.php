@@ -1,4 +1,4 @@
 <?php
 
-  print "First page";
+  print "second page";
 ?>
